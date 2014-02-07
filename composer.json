@@ -1,0 +1,8 @@
+{
+    "require": {
+        "silex/silex": "~1.1",
+        "race-it/itunes": "dev-master",
+        "symfony/yaml": "v2.4.1",
+        "deralex/yaml-config-service-provider": "1.0.*@dev"
+    }
+}
