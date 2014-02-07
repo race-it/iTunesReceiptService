@@ -12,3 +12,6 @@ Also clone this repo to the server, then run composer install on it, then you ca
 Tempting idea is to accept the payload in the same way as apple does (json structure) and then this would be a complete passthrough.
 
 Need to add your password to the settings.yml file also for newsstand receipts.
+
+example-settings.yml in the web dir, rename to settings.yml and update with password
+itunes-password: insert-password-here
